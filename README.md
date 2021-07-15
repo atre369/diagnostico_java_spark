@@ -1,14 +1,12 @@
 # Examen Diagnostico JAVA to Big Data
 **cuentas con 24 horas para resolver el ejercicio**
-
-
 ## Instrucciones
 
 1. Realizar un fork de este repositorio a tu cuenta de github.
 2. Crear una rama que por nombre lleve tus iniciales a partir de la rama solution.
 3. Realizar los ejercicios solicitados abajo.
 4. Enviar por correo electronico la notificación de finalización y el link al repositorio de solución.
-**_No debes hacer PULL REQUEST_**
+
 ## ¿Qué evaluaremos?
 
 * Resuelva con el API de SparkSQL el ejercicio planteado.
